@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f07f19a2-a10e-4f9e-b60c-58b69845fef1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Week01/HTML/BT_taodanhsach/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01/HTML/TH_HTMLcanban/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01/HtmlAndTablle/BT_lichthang/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01/HtmlAndTablle/BT_taoFormdongian/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01/HtmlAndTablle/BT_taobangdongian/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01/HtmlAndTablle/BT_taobangnangcao/bancovua.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01/HtmlAndTablle/BT_taogiaodienDang kynguoidung/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01/HtmlAndTablle/TH_FormtimkiemGoogle/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01/HtmlAndTablle/TH_taobangcoban/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01/HtmlAndTablle/TH_taobangnangcao/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01/HtmlAndTablle/Th_taoFormcoban/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01/HtmlAndTablle/surveyKhachhang/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH_hienthidaura/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH_hienthidaura/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH_hienthidaura/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH_hienthidaura/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week1/BT_taodanhsach/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bke0W7lJYZFG3Zp21fAYafpo2W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f07f19a2-a10e-4f9e-b60c-58b69845fef1" name="Default Changelist" comment="" />
+      <created>1589180295574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589180295574</updated>
+      <workItem from="1589180297018" duration="1529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
