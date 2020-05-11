@@ -14,13 +14,12 @@
       <change afterPath="$PROJECT_DIR$/../Week01/HtmlAndTablle/TH_taobangnangcao/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Week01/HtmlAndTablle/Th_taoFormcoban/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Week01/HtmlAndTablle/surveyKhachhang/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TH_hienthidaura/bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TH_hienthidaura/bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TH_hienthidaura/bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TH_hienthidaura/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH_nhungjavaScript/bai1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Week1/BT_taodanhsach/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bke0W7lJYZFG3Zp21fAYafpo2W" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -72,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589180295574</updated>
-      <workItem from="1589180297018" duration="1529000" />
+      <workItem from="1589180297018" duration="2465000" />
     </task>
     <servers />
   </component>
